@@ -1,6 +1,6 @@
-# Personality-Prediction-Through-CV
+# Personality Detection Using Resume/CV
 
-A system that predict the personality of a person with OCEAN values and resume.
+A system that predict the personality of a person with Big5 values and resume.
 
 ## Objectives
 
